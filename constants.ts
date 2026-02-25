@@ -21,7 +21,7 @@ export const CLIENTS = [
 export const HERO_IMAGES_COL_1 = [
   { src: "/Hero-section-1/A_luxury_closeup_2k_202601032000.jpeg", label: "Celestial Shine Collection" },
   { src: "/Hero-section-1/Urban.png", label: "Urban Collection" },
-  { src: "/Hero-section-1/1 (2).png", label: "Lifestyle Series" },
+  { src: "/Hero-section-1/lifestyle.png", label: "Lifestyle Series" },
   { src: "/Hero-section-1/Pure.png", label: "Pure Classic" },
   { src: "/Hero-section-1/Active.png", label: "Active Drift" },
   { src: "/Hero-section-1/Resort.png", label: "Resort Wear" }
