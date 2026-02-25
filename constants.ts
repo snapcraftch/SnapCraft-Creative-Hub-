@@ -19,21 +19,21 @@ export const CLIENTS = [
 
 // --- HERO SECTION SCROLLING IMAGES ---
 export const HERO_IMAGES_COL_1 = [
-  { src: "/Hero section 1/A_luxury_closeup_2k_202601032000.jpeg", label: "Celestial Shine Collection" },
-  { src: "/Hero section 1/Urban.png", label: "Urban Collection" },
-  { src: "/Hero section 1/1 (2).png", label: "Lifestyle Series" },
-  { src: "/Hero section 1/Pure.png", label: "Pure Classic" },
-  { src: "/Hero section 1/Active.png", label: "Active Drift" },
-  { src: "/Hero section 1/Resort.png", label: "Resort Wear" }
+  { src: "/Hero-section-1/A_luxury_closeup_2k_202601032000.jpeg", label: "Celestial Shine Collection" },
+  { src: "/Hero-section-1/Urban.png", label: "Urban Collection" },
+  { src: "/Hero-section-1/1 (2).png", label: "Lifestyle Series" },
+  { src: "/Hero-section-1/Pure.png", label: "Pure Classic" },
+  { src: "/Hero-section-1/Active.png", label: "Active Drift" },
+  { src: "/Hero-section-1/Resort.png", label: "Resort Wear" }
 ];
 
 export const HERO_IMAGES_COL_2 = [
-  { src: "/Hero section 2/Duo.png", label: "Classic Duo" },
-  { src: "/Hero section 2/IMG-20260219-WA0012.jpg", label: "Studio Light" },
-  { src: "/Hero section 2/Berry.png", label: "Berry Bloom" },
-  { src: "/Hero section 2/Tech.png", label: "Daily Tech" },
-  { src: "/Hero section 2/Aura.png", label: "Golden Aura" },
-  { src: "/Hero section 2/Runway.png", label: "Runway" }
+  { src: "/Hero-section-2/Duo.png", label: "Classic Duo" },
+  { src: "/Hero-section-2/IMG-20260219-WA0012.jpg", label: "Studio Light" },
+  { src: "/Hero-section-2/Berry.png", label: "Berry Bloom" },
+  { src: "/Hero-section-2/Tech.png", label: "Daily Tech" },
+  { src: "/Hero-section-2/Aura.png", label: "Golden Aura" },
+  { src: "/Hero-section-2/Runway.png", label: "Runway" }
 ];
 
 export const ASSETS: BrandAsset[] = [
