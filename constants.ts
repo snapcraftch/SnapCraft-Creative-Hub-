@@ -28,7 +28,7 @@ export const HERO_IMAGES_COL_1 = [
 ];
 
 export const HERO_IMAGES_COL_2 = [
-  { src: " /Hero section 2/Duo.png", label: "Classic Duo" },
+  { src: "/Hero section 2/Duo.png", label: "Classic Duo" },
   { src: "/Hero section 2/IMG-20260219-WA0012.jpg", label: "Studio Light" },
   { src: "/Hero section 2/Berry.png", label: "Berry Bloom" },
   { src: "/Hero section 2/Tech.png", label: "Daily Tech" },
